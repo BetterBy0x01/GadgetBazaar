@@ -1,0 +1,29 @@
+.hero {
+    background-image: url("../public/images/hero_bg.png");
+    height: 135px;
+    background-position: center;
+    position: relative;
+    margin-top: 3px;
+}
+
+.hero a {
+    position: absolute;
+    left: 55%;
+    top: 50%;
+    text-decoration: none;
+    transform: translateY(-50%);
+    color: var(--dark-green);
+
+    font-size: 1rem;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 4px;
+    font-weight: bold;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.hero a:hover {
+    background-color: #3AB7BD;
+    color: white;
+}

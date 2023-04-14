@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --light-grey: #EFF1F3;
+  --dark-grey: #EBEEEF;
+  --dark-green: #002F34;
+  --light-green: #22cfe2;
+}
+
+body {
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  /* height: 100vh; */
+  font-family: Roboto,Arial,Helvetica,sans-serif;
+  color: var(--dark-green);
+  overflow-x: hidden;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* background-color: var(--light-grey); */
+}
+
+a {
+  text-decoration: none;
+  font-family: inherit;
+}
+
+#__next {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
