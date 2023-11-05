@@ -1,7 +1,7 @@
-## Olx Clone
+## GadgetBazaar
 ___
 
-Checkout the clone here 👉🏻 : [Olx Clone](https://elaborate-gecko-8b697d.netlify.app/)
+Checkout the clone here 👉🏻 : [GadgetBazaar](https://elaborate-gecko-8b697d.netlify.app/)
 
 ## About the project
 * It is build completely using `Next.js`
